@@ -1,0 +1,48 @@
+package linkedListprojects;
+
+public class palindrom {
+
+	
+
+		public static void main(String[] args) {
+			// TODO Auto-generated method stub
+
+			
+				
+				
+					
+				
+				{ 
+					System.out.println("Ireine toyota is abc years old?: " +ismytoyata("abc"));
+				
+				     System.out.println("Lexine toyota is aaa years old?" +ismytoyata("aaa"));
+				
+				     System.out.println("Jean toyota is red ?: " +ismytoyata("red"));
+				     }
+				
+				    
+				}
+
+
+				public static boolean ismytoyata(String text){
+					String reverse = reverse(text); 
+					if(text.equals(reverse)){ 
+						return true; } 
+					return false;
+					}
+
+
+
+				private static String reverse(String text) {
+			
+					return null;
+			
+			
+			
+			
+			
+			
+			
+		}
+
+	}
