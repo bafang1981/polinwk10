@@ -1,0 +1,29 @@
+import java.util.*;
+public class arraylist {
+	
+   @SuppressWarnings("deprecation")
+public static void main (String[] args) {
+	   
+	   
+      List<Integer> list = new ArrayList<Integer>();
+       {
+         list.add(74);
+         list.add(21);
+         list.add(23);
+         System.out.println("Minimum age to play soccer in Cameroon is:"  + Collections.min(list));
+      
+         
+         
+         // le resultat nous donnera l age minimun des 3 joueurs 
+       }
+       }
+
+    	 }
+    	 
+    	 
+    		 
+    		 
+     
+    	 
+     
+     
