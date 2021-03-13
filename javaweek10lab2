@@ -1,0 +1,22 @@
+
+public class palindrom {
+	
+	
+	
+	public class PalindromeTest {
+		public static void main(String args[]) { 
+		
+			 // Example  d un  LinkedList et aussi initialize 
+			
+	        LinkedList&lt;String&gt; colorList = new LinkedList&lt;&gt;();
+	        colorList.add("Red");
+	        colorList.add("Green");
+	        colorList.add("Blue");
+	         
+	        
+	        System.out.println("LinkedList elements using for loop:");
+	        for(int i=0; i &lt; colorList.size(); i++) {
+	            System.out.print(colorList.get(i) + " ");
+	        }
+	    }
+	}
